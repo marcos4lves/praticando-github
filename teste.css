@@ -1,4 +1,8 @@
-const export teste{
+export const teste{
     flex:1;
     margin-top: 25px;
+}
+
+export const aba{
+    border-radius: 4px;
 }
