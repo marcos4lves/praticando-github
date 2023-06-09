@@ -1,7 +1,5 @@
-import styled from 'styled-components';
-
-export const Container = styled.SafeAreaView`
-    flex:1;
-    background-color: #F0F4FF;
-`;
-
+let variavel1 = [
+    {Teste: 123, nivel: 456},
+    {Nome: 'string', nivel: 345},
+    {Classe: 'Samurai', tier: 3}
+]

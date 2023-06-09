@@ -1,11 +1,11 @@
 import React from 'react';
-import { View, Image, Text, StyleSheetCreate } from 'react-native';
+import { View, Text, TouchableOpacity } from 'react-native';
 
-export default function Home(){
+export default function SignUp(){
     return(
         <View>
-            <Text> Esse é o texto da página inicial, Home </Text>
-            <Text> Do Git e do Git Hub </Text>
+            <Text> Essa é a página de cadastro </Text>
+            <TouchableOpacity><Text> Cadastrar </Text></TouchableOpacity>
         </View>
     )
-};
+}
