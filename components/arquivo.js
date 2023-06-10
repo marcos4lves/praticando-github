@@ -3,3 +3,5 @@ let variavel1 = [
     {Nome: 'string', nivel: 345},
     {Classe: 'Samurai', tier: 3},
 ]
+
+var secret = 'segredo'
