@@ -1,0 +1,1 @@
+// page de cadastro completa.js
